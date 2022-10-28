@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "start-mock": "json-server ./src/api/data.json -p 3001",
     "start": "next start",
     "lint": "next lint"
   },

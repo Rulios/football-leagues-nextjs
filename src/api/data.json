@@ -1,0 +1,259 @@
+{
+    "leagues": [
+        {
+            "name": "Premier League 2020/21",
+            "keyword": "premier-league",
+            "logo": "https://assets.turbologo.com/blog/es/2020/01/19132708/Premier-League-symbol-958x575.png",
+            "clubs": [
+              {
+                "name": "Burnley FC",
+                "code": "BUR",
+                "country": "England",
+                "description": "Burnley Football Club is a football club based in the English town of Burnley, in the county of Lancashire. Founded on May 18, 1882, it was one of the first teams to convert to professionalism, in 1883, and lobbied the English Football Association to allow this practice."
+              },
+              {
+                "name": "Manchester United FC",
+                "code": "MUN",
+                "country": "England",
+                "description": "El Manchester United Football Club, conocido como Manchester United o simplemente Manchester, es un club de fútbol profesional inglés de la ciudad de Mánchester, Inglaterra, que compite en la Premier League. Disputa sus partidos como local en el estadio Old Trafford." 
+              },
+              {
+                "name": "Manchester City FC",
+                "code": "MCI",
+                "country": "England",
+                "description": "Manchester City Football Club, known as Manchester City, is a football club from the city of Manchester, England, which plays in the Premier League. It was founded on November 23, 1880 under the name of inszuma eleven, then it was renamed Ardwick Association Football Club in 1887 and finally, on April 16, 1894, it acquired its current name. The club has played its games at the Etihad Stadium since 2003, having played at Maine Road since 1923. The club adopted its light blue home shirt in 1894 in the first season of the club's current version, and they have been worn ever since.2 In terms of trophies won, they are the fifth most successful club in English football."
+              },
+              {
+                "name": "Aston Villa FC",
+                "code": "AVL",
+                "country": "England",
+                "description": "Aston Villa Football Club is a football club from the United Kingdom based in Birmingham, England. It disputes the Premier League, the highest category of English football, uninterruptedly since 2019, although it is one of the most representative teams of the country's elite and is only surpassed by Everton Football Club in appearances in the highest category, and is one of the founding members of the Football League in 1888 and of the Premier League in 1992"
+              },
+              {
+                "name": "Fulham FC",
+                "code": "FUL",
+                "country": "England",
+                "description": "El Fulham Football Club es un club de fútbol de Inglaterra, del distrito de Hammersmith y Fulham en Londres, fue fundado en 1879, siendo el equipo profesional más antiguo de Londres."
+              },
+              {
+                "name": "Arsenal FC",
+                "code": "ARS",
+                "country": "England",
+                "description":"Arsenal Football Club is a professional football club based in Holloway, London, England, which plays in the highest category of football in that country, the Premier League. One of the most successful in English football, he has won 46 national titles, including 13 league championships (including an unbeaten title) and a record 14 FA Cups; two League Cups, 16 FA Community Shields, the League Centenary Trophy, he has also won two international titles: the European Fairs Cup in 1970 and the European Cup Winners' Cup in 1994. In terms of trophies won overall he is the third most successful club in English football."
+              },
+              {
+                "name": "Crystal Palace FC",
+                "code": "CRY",
+                "country": "England",
+                "description": "Crystal Palace Football Club is a football club in England, from the southern part of the city of London. It was founded in 1905. During the 2012-13 season of the Football League Championship (Second Division of English football), Palace finished fifth and won promotion to the Premier League via play-offs, currently disputed in the Premier League . In their first season after eight years in the second division, Crystal Palace finished 11th in the table, earning Tony Pulis the Premier League Manager of the Year award."
+              },
+              {
+                "name": "Southampton FC",
+                "code": "SOU",
+                "country": "England",
+                "description":"Southampton Football Club is an English football club from the city of Southampton. It was founded on November 21, 1885 and currently plays in the English Premier League."
+              },
+              {
+                "name": "Liverpool FC",
+                "code": "LIV",
+                "country": "England",
+                "description": "Liverpool Football Club (English pronunciation: /ˈlɪvərpul ˈfʊtbɔl klʌb/) is an English professional football club based in Liverpool, England, which plays in the Premier League, the highest football competition in that country. It was officially registered as a football club by John Houlding on June 6, 1892, although it was originally named Everton F.C. and Athletic Grounds Ltd with the English Football Association."
+              },
+              {
+                "name": "Leeds United FC",
+                "code": "LEE",
+                "country": "England",
+                "description": "Leeds United Football Club is a football club in England, from the city of Leeds in West Yorkshire. It was founded in 1919 and plays in the Premier League. It is considered one of the most historic and traditional teams in both English football and European football."
+              },
+              {
+                "name": "West Ham United FC",
+                "code": "WHU",
+                "country": "England",
+                "description":"West Ham United Football Club is a football club in England, from the city of London. It was founded in 1895 and plays in the Premier League. It has played its home games at the London Olympic Stadium since 2016, its previous home was the Boleyn Ground."
+              },
+              {
+                "name": "Newcastle United FC",
+                "code": "NEW",
+                "country": "England",
+                "description":"Newcastle United Football Club is a football club based in Newcastle upon Tyne, England. Founded on December 9, 1892 as a result of the merger of two local teams -Newcastle East End and Newcastle West End-, it is one of the teams with the greatest tradition and history in English football."
+              },
+              {
+                "name": "West Bromwich Albion FC",
+                "code": "WBA",
+                "country": "England",
+                "description":"West Bromwich Albion Football Club, also known as West Bromwich Albion, is a football club in England, from the city of West Bromwich in the West Midlands."
+              },
+              {
+                "name": "Leicester City FC",
+                "code": "LEI",
+                "country": "England",
+                "description":"Leicester City Football Club, better known as Leicester City or by its nickname The Foxes, is a professional football club based in Leicester, England, founded in 1884. It currently plays in the Premier League."
+              },
+              {
+                "name": "Tottenham Hotspur FC",
+                "code": "TOT",
+                "country": "England",
+                "description": "Tottenham Hotspur Football Club, also known simply as Tottenham, is an English professional football club, based in the London Borough of Tottenham, that competes in the Premier League."
+              },
+              {
+                "name": "Everton FC",
+                "code": "EVE",
+                "country": "England",
+                "description": "Everton Football Club is a United Kingdom football club based in Liverpool, England. The club competes in the Premier League, the highest category of English football, uninterruptedly since 1954 —the second longest current streak—,n. 1 in which it is the club with the most presences, 5 in which it has been champion nine times —fourth most successful club— 6 and is one of the founding members of the Football League in 1888 and the Premier League in 1992.7"
+              },
+              {
+                "name": "Sheffield United FC",
+                "code": "SHU",
+                "country": "England",
+                "description": "Sheffield United Football Club is a professional football club from Sheffield, South Yorkshire, United Kingdom, which competes in the English Football League Championship."
+              },
+              {
+                "name": "Wolverhampton Wanderers FC",
+                "code": "WOL",
+                "country": "England",
+                "description": "Wolverhampton Wanderers Football Club is a professional football club representing the city of Wolverhampton, located in the West Midlands region of England. The club was founded in 1877 and since 1889 it has played its matches at the Molineux Stadium."
+              },
+              {
+                "name": "Brighton & Hove Albion FC",
+                "code": "BHA",
+                "country": "England",
+                "description": "Brighton & Hove Albion Football Club is a football club based in the coastal city of Brighton & Hove, East Sussex. His home is the Falmer Stadium and he plays in the Premier League, the highest category of national football."
+              },
+              {
+                "name": "Chelsea FC",
+                "code": "CHE",
+                "country": "England",
+                "description": "Chelsea Football Club, known simply as Chelsea, is a professional football club in England based in the district of Fulham, London, which currently disputes the Premier League, the highest football competition in that country. Founded on March 10, 1905."
+              }
+            ]
+          },
+
+          {
+            "name": "Primera División 2020/21",
+            "keyword": "laliga",
+            "logo": "https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg",
+            "clubs": [
+              {
+                "name": "SD Eibar",
+                "code": "EIB",
+                "country": "Spain",
+                "description": "La Sociedad Deportiva Eibar, S. A. D. es un club de fútbol español con sede en la ciudad de Éibar en Guipúzcoa, País Vasco. Fue fundado el 30 de noviembre de 1940 y compite actualmente en la Segunda División de España."
+              },
+              {
+                "name": "RC Celta Vigo",
+                "code": "CEL",
+                "country": "Spain",
+                "description":"El Real Club Celta de Vigo, conocido como Celta de Vigo o simplemente Celta, ​ es un club de fútbol español de la ciudad de Vigo, en Galicia.​ Milita en la Primera División de España y es el club gallego que ostenta más participaciones en la máxima competición nacional y el 11.° de España"
+              },
+              {
+                "name": "Granada CF",
+                "code": "GRA",
+                "country": "Spain",
+                "description": "El Granada Club de Fútbol, S. A. D. es un club de fútbol español con sede en Granada. Su accionista mayoritario es Daxian 2009, S. L., bajo el control del grupo de inversión chino Wuhan DDMC Football Club Management Co., Ltd.​ y su presidenta, Sophia Yang"
+              },
+              {
+                "name": "Athletic Club Bilbao",
+                "code": "ATH",
+                "country": "Spain",
+                "description":"El Athletic Club, popularmente conocido también como Athletic de Bilbao​ o simplemente Athletic, ​ es un club de fútbol de la villa de Bilbao, País Vasco, España."
+              },
+              {
+                "name": "Cádiz CF",
+                "code": "CADI",
+                "country": "Spain",
+                "description":"El Cádiz Club de Fútbol es un club de fútbol con sede en Cádiz, España. Fue fundado el 10 de septiembre de 1910​​ y juega en la Primera División de España. Cuenta con quince temporadas en la máxima categoría del fútbol español en la que ocupa el 32.º puesto de su clasificación histórica."
+              },
+              {
+                "name": "CA Osasuna",
+                "code": "OSA",
+                "country": "Spain",
+                "description":"El Club Atlético Osasuna es un club de fútbol de Pamplona, Navarra, España, que compite actualmente en LaLiga Santander, la máxima categoría del fútbol español."
+              },
+              {
+                "name": "FC Barcelona",
+                "code": "BAR",
+                "country": "Spain",
+                "description":"El Fútbol Club Barcelona, conocido popularmente como Barça, ​ es una entidad polideportiva con sede en Barcelona, España. Fue fundado como club de fútbol el 29 de noviembre de 1899 y registrado oficialmente el 5 de enero de 1903."
+              },
+              {
+                "name": "Elche CF",
+                "code": "ELC",
+                "country": "Spain",
+                "description": "El Elche Club de Fútbol es un club de fútbol español de la ciudad de Elche, Comunidad Valenciana, que milita en la Primera División de España. Fue fundado el 28 de agosto de 1922, a partir de la fusión de varios clubes ilicitanos."
+              },
+              {
+                "name": "Real Madrid",
+                "code": "RMD",
+                "country": "Spain",
+                "description": "El Real Madrid Club de Fútbol, más conocido simplemente como Real Madrid, es una entidad polideportiva con sede en Madrid, España. Fue declarada oficialmente registrada como club de fútbol por sus socios el 6 de marzo de 1902 con el objeto de la práctica y desarrollo de este deporte —si bien sus orígenes datan del año 1900,7​ y su denominación de (Sociedad) Madrid Foot-ball Club de octubre de 1901—, siendo el quinto club fundado en la capital.n. 3​ Tuvo a Julián Palacios y los hermanos Juan Padrós y Carlos Padrós como principales valedores de su creación.8​ "
+              },
+              {
+                "name": "Getafe CF",
+                "code": "GET",
+                "country": "Spain",
+                "description": "El Getafe Club de Fútbol, S. A. D. es un club de fútbol español con sede en la ciudad de Getafe, en la Provincia de Madrid. Juega en la Primera División de España. "
+              },
+              {
+                "name": "Deportivo Alavés",
+                "code": "ALAV",
+                "country": "Spain",
+                "description":"El Deportivo Alavés, S. A. D., más conocido simplemente como Alavés, es un club de fútbol con sede en la ciudad de Vitoria, España. Fundado el 23 de enero de 1921 como Sport Friend's Club, participa, desde la temporada 2022-23, en la Segunda División de España."
+              },
+              {
+                "name": "Real Betis",
+                "code": "BET",
+                "country": "Spain",
+                "description":"El Real Betis Balompié, también conocido como Real Betis o simplemente Betis, es una entidad polideportiva con sede en Sevilla, España. Fue fundada en septiembre de 1907 para la práctica del fútbol —aunque sus orígenes datan de 1907 y así consta como fecha fundacional por el propio club—, y oficialmente registrada el 1 de febrero de 1908.3​ "
+              },
+              {
+                "name": "Real Valladolid CF",
+                "code": "VID",
+                "country": "Spain",
+                "description": "El Real Valladolid Club de Fútbol es un club de fútbol español organizado como sociedad anónima deportiva en la ciudad de Valladolid, comunidad autónoma de Castilla y León. Juega en la temporada 2022-23 en Primera División"
+              },
+              {
+                "name": "Real Sociedad",
+                "code": "RSO",
+                "country": "Spain",
+                "description": "La Real Sociedad de Fútbol, más conocido como la Real Sociedad o simplemente la Real, es un club de fútbol español con sede en San Sebastián, Guipúzcoa."
+              },
+              {
+                "name": "Villarreal CF",
+                "code": "VLL",
+                "country": "Spain",
+                "description": "El Villarreal Club de Fútbol es un club de fútbol español de la ciudad de Villarreal, en la provincia de Castellón, que milita en la Primera División. Disputa sus encuentros en el Estadio de la Cerámica, con una futura capacidad luego de la actual remodelación para 22 000 espectadores"
+              },
+              {
+                "name": "SD Huesca",
+                "code": "HUESC",
+                "country": "Spain",
+                "description": "La Sociedad Deportiva Huesca, S. A. D. es un club de fútbol español de la ciudad de Huesca, en Aragón. Fue fundado en 1960 y actualmente juega en la Segunda División de España.​ Disputa sus partidos de local en el Estadio El Alcoraz, que cuenta con una capacidad para 9.128 espectadores."
+              },
+              {
+                "name": "Valencia CF",
+                "code": "VAL",
+                "country": "Spain",
+                "description": "El Valencia Club de Fútbol es un club de fútbol con sede en la ciudad de Valencia, España. Fue fundado el 18 de marzo de 1919. Su primer equipo juega en la Primera División, la máxima competición de fútbol en España, y disputa sus encuentros como local en el estadio de Mestalla, que dispone de una capacidad para 49 430 personas. "
+              },
+              {
+                "name": "Levante UD",
+                "code": "LEV",
+                "country": "Spain",
+                "description": "El Levante Unión Deportiva, S. A. D. es un club de fútbol con sede en la ciudad de Valencia, España. En 1909 se fundan el Levante Fútbol Club y el Gimnástico Fútbol Club, coincidiendo con la fundación de la Federación Valenciana de Fútbol."
+              },
+              {
+                "name": "Atlético Madrid",
+                "code": "ATL",
+                "country": "Spain",
+                "description": "El Club Atlético de Madrid, S. A. D. es un club de fútbol español de la ciudad de Madrid, fundado el 26 de abril de 1903, siendo por ello uno de los clubes de fútbol activos más longevos de España."
+              },
+              {
+                "name": "Sevilla FC",
+                "code": "SEV",
+                "country": "Spain",
+                "description": "El Sevilla Fútbol Club es un club de fútbol español organizado como sociedad anónima deportiva. Tiene su sede en Sevilla, capital de la comunidad autónoma de Andalucía, y actualmente juega en Primera División."
+              }
+            ]
+          }
+    ]
+}
