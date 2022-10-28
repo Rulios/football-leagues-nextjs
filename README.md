@@ -39,9 +39,15 @@ npm run dev
 # or
 yarn dev
 ```
-    
-Second, run the "mock" API server: 
-    
+
+Second, rename the .env.example file to .env.local
+
+```
+.env.example ---> .env.local
+```
+
+Third, run the "mock" API server: 
+ 
 ```
 npm run start-api
 ```
