@@ -2,15 +2,34 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## Description
+This is the deliverable made by Robert Lu Zheng as the final project to the Next.JS Rootlab session. 
 
-The features of NextJS that features this project are: 
+## Description of the project
+This project consist of a football (soccer for those in the U.S xd) website bootstrapped with Next.JS. 
+The website displays the football leagues, once clicked, it will show all the teams belonging to that league. 
+When clicking the team, it will navigate to another page that will showcase a brief and basic description of the team. 
+
+
+The features of NextJS that cover this project are: 
 - NextJS Project Structure
-    
+    - _app, pages
 - Pages
+
 - Routing
+    - Static and dynamic routing
+    
 - Components
+    - Use of high and low level components
+    
 - Data fetching
+    - Static site generation w/ Dynamic routing
+    
 - Image optimization
+    - Usage of the <Image> component provided by Next.js
+
+- Middleware
+    - Rewriting and redirecting to the correct URLs when mistyped or in another language (e.g. Spanish). 
 
 
 First, run the development server:
@@ -20,8 +39,16 @@ npm run dev
 # or
 yarn dev
 ```
+    
+Second, run the "mock" API server: 
+    
+```
+npm run start-api
+```
+   
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+GREAT NOW Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
@@ -29,12 +56,4 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
