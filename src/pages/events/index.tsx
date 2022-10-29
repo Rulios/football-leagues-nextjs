@@ -1,4 +1,5 @@
 import React, {ChangeEvent, useState} from "react"
+import { ApplicationWrapper } from "../../components/layout/ApplicationWrapper";
 
 export default function Events(){
 
@@ -46,7 +47,10 @@ export default function Events(){
     }
 
     return (
-        <div className="bg-white text-black h-full p-8 m-8 flex flex-col gap-2">
+
+        <ApplicationWrapper title="Events">
+
+            <div className="bg-white text-black h-full p-8 m-8 flex flex-col gap-2">
 
             <h1>Events example</h1>
 
@@ -76,7 +80,7 @@ export default function Events(){
                 className="bg-white text-black" name="" id="" value={number}
                 onChange={onNumberChange}
             />
-            
+
             <input type="checkbox " onChange={onCheckBoxChange} checked={checkSelected}/>
 
             <select name="" id="" className="bg-white" onChange={onChangeSelect} value={selectValue}>
@@ -99,7 +103,9 @@ export default function Events(){
                 checkSelected && 
                     <button className="border shadow border-black" onClick={onClickTestButton}>Test Button 2</button>
             }
-            
-        </div>
+
+            </div>
+        </ApplicationWrapper>
+        
     )
 }
