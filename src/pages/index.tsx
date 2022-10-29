@@ -16,6 +16,8 @@ const Home: NextPage<HomeProps> = () => {
           <h1 className="text-7xl font-bold underline text-white">
             FOOTBALL TEAMS SEASON 2020/21
           </h1>
+
+          <h6>Made by Robert Lu Zheng | email: rluzheng@gmail.com</h6>
         </div>
       </div>
     </ApplicationWrapper>
