@@ -31,7 +31,7 @@ const Club: NextPage<TProps> = ({ club }) => {
 
 
 export const getStaticProps: GetStaticProps = async (context) => {
-
+    console.log(process.env.NEXT_PUBLIC_API_URL)
     const res = await fetch(
       `${process.env.NEXT_PUBLIC_API_URL}/leagues`
     );
